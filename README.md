@@ -13,3 +13,5 @@ A sprig is a programmable console made by Hack Club based on the raspberry pi pi
 https://sprig.hackclub.com/
 
 https://hackclub.com/
+
+![image](https://github.com/Patcybermind/3D-Wireframe-renderer-for-sprig/assets/97562509/43fdb537-aac7-4360-9eaa-d00ab00e4eae)
